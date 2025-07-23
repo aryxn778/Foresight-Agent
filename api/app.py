@@ -44,7 +44,7 @@ def predict():
         predicted_sales = float(round(math.expm1(prediction), 2))
 
         print("✅ Predicted Demand:", predicted_sales)
-        return jsonify({"predicted_demand": predicted_sales})
+        return jsonify({"predicted_demand": predicted_sales})  # ✅ correct key!
 
     except Exception as e:
         print("❌ Exception occurred:", e)
