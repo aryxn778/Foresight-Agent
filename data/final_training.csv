@@ -1,0 +1,3 @@
+date,product_id,location_id,units_sold,inventory_level,day_of_week,month,prev_units_sold,prev_inventory_level,rolling_avg_sales,low_inventory_flag
+2024-01-02,P001,L001,70,130,3,1,50,200,50.0,0
+2024-01-02,P002,L002,40,260,3,1,20,300,20.0,0

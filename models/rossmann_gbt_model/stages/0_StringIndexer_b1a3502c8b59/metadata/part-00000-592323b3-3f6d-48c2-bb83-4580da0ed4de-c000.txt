@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1753173870130,"sparkVersion":"4.0.0","uid":"StringIndexer_b1a3502c8b59","paramMap":{"inputCol":"StateHoliday","handleInvalid":"keep","outputCol":"StateHoliday_idx"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_b1a3502c8b59__output"}}
